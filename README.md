@@ -3,13 +3,7 @@
   ## Hi there 👋 
   I am JaeChan Koh in Department of Computer Science Engineering, Dongguk University <br/><br/>
 
-
-## 🌱 tech stacks 🌱 
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
- <br/>
- <br/>
- <br/>
-  ## CONTACT
+  ## CONTACT 🌱
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhwocks69@gmail.com)](mailto:rhwocks69@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jaychan1124@naver.com)](mailto:jaychan1124@naver.com)
   <br/>
